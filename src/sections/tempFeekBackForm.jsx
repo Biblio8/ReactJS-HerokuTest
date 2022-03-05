@@ -15,7 +15,7 @@ const FeedBackForm = () => {
           <FlexRow>
             <iframe
               title="GoogleForm"
-              src="https://forms.gle/MaEJTCmch3LVq5D79"
+              src="https://docs.google.com/forms/d/e/1FAIpQLScb0ZVHOuzvEfEJulhVEifb3CMbj4eZjLw-ZJ_qb2YVaHvhEg/viewform?usp=sf_link"
               frameborder="0"
               width="80%"
               height="1000px"
